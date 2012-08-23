@@ -650,13 +650,13 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="Q2" pad="2"/>
 <contactref element="Q3" pad="2"/>
 <contactref element="Q1" pad="2"/>
-<polygon width="0.6096" layer="1">
+<polygon width="0.6096" layer="1" isolate="0.3048">
 <vertex x="40.9575" y="24.13"/>
 <vertex x="0.3175" y="24.13"/>
 <vertex x="0.3175" y="0"/>
 <vertex x="40.9575" y="0"/>
 </polygon>
-<polygon width="0.6096" layer="16">
+<polygon width="0.6096" layer="16" isolate="0.3048">
 <vertex x="40.9575" y="24.13"/>
 <vertex x="0.3175" y="24.13"/>
 <vertex x="0.3175" y="0"/>
